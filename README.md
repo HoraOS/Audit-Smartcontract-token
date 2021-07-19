@@ -10,11 +10,14 @@ Audit-Smartcontract-token
 - [Info on Hora Os Documents Site]
 - [Info on Github Techrate Company]
 
-#TECHRATE
+# TECHRATE
+
 + Techrate is an analytical and engineering agency focused on blockchain technology solutions and audits.
 + Website: https://techrate.org/
 + Github: https://github.com/TechRate/
-#UFIN
+
+# UFIN
+
 + Founded in October 2019 and operates mainly in 4 areas including Artificial Intelligence (A.I), Blockchain, Cloud Computing and Operating System (OS) development.
 + Website: https://ufin.uk/
 + Github: https://github.com/ufinuk/
