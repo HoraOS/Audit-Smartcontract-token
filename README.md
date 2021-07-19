@@ -6,7 +6,7 @@ Audit-Smartcontract-token
 - [Info on Hora Os Documents Site](https://docs.horaos.com/audits/techrate)
 - [Info on Github Techrate Company](https://github.com/TechRate/Smart-Contract-Audits/blob/main/Hora%20Os%20Full%20Smart%20Contract%20Security%20Audit.pdf)
 + UFIN AUDIT REPORT FILEs:(updating...)
-- [Techrate Audit Report]
+- [UFIN Audit Report]
 - [Info on Hora Os Documents Site]
 - [Info on Github Techrate Company]
 
